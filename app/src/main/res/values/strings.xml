@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">Las Vegas Guide</string>
+    <string name="title">Open with</string>
+
+    <string-array name="sightName">
+        <item>Paris Hotel and Eiffel Tower</item>
+        <item>Bellagio</item>
+        <item>Caesar’s Palace</item>
+        <item>Mandalay Bay</item>
+        <item>Mirage Hotel: Secret Garden</item>
+        <item>Hershey’s chocolate world</item>
+        <item>Fremont Street</item>
+        <item>Ancient Egypt</item>
+        <item>New York - New York</item>
+    </string-array>
+
+    <string-array name="sightAddress">
+        <item>3655 S Las Vegas Blvd</item>
+        <item>3600 S Las Vegas Blvd</item>
+        <item>3570 S Las Vegas Blvd</item>
+        <item>3950 S Las Vegas Blvd</item>
+        <item>3400 S Las Vegas Blvd</item>
+        <item>3790 S Las Vegas Blvd</item>
+        <item>Fremont Street</item>
+        <item>3900 South Las Vegas Blvd</item>
+        <item>3790 S Las Vegas Blvd</item>
+    </string-array>
+
+    <string-array name="sightDescription">
+        <item> Forty-six stories above the city streets, the Eiffel Tower Experience is an observation deck with incredible 360-degree views.
+            Out front is a scale model of the Eiffel Tower, and down the way is a recreation of the Paris Opera House.
+           </item>
+        <item>The Bellagio Resort is a high-end hotel complex, with a wide variety of attractions.
+            The most impressive and famous feature is the fountain show.
+            In front of the Bellagio, the dancing fountains perform a beautiful display of water set to music.
+            From the sidewalk, visitors have a ringside view. This is often described as the best free attraction in Las Vegas.</item>
+        <item>Currently Caesar’s Palace is a massive complex, complete with every imaginable entertainment option.
+            The hotel is closely associated with shows held in its huge concert venue known as "The Colosseum".
+            Top performers (which have included Celine Dion and Elton John) perform here for extended periods, and shows are often booked out well in advance.</item>
+        <item>One of the key highlights at Mandalay Bay Resort complex is the Shark Reef Aquarium. The massive 1,300,000-gallon tank holds a wide variety of sharks, fish, rays, reptiles, and marine invertebrates.
+            About 100 sharks from 15 different species and more than 2,000 animals in all are on display.
+            The Shark Tunnel is the most impressive feature.</item>
+        <item>In front of the Mirage Casino Resort is a volcano, which erupts at regular intervals.
+            At night, the glowing red fire shooting out is one of the most unique sites visible from the sidewalk.
+            Inside the Mirage is the Secret Garden and Dolphin Habitat.
+            You can see a wide variety of exotic animals, including white lions.</item>
+        <item>Stop by Hershey’s chocolate world Las Vegas to see a famous American icon in chocolate.
+            The store features a sculpture of the Statue of Liberty made out of almost 800 lbs. of HERSHEY’s Milk Chocolate.
+            Stop by the store to customize your very own chocolate bars, choose from a wide selection of tasty treats, and shop for your favourite HERSHEY’S gifts.
+            It is sure to be a unique and unforgettable shopping experience!</item>
+        <item>In old downtown Las Vegas,
+            Fremont Street is a pedestrian-only area with all kinds of unique sites.
+            A five-block section of Fremont Street is covered over with a canopy of LED lights that illuminate the sky in a spectacle of different colors and designs as you walk below.
+            Each night a fantastic music and visual show takes place overhead.
+            Street performers and special entertainment acts often perform in this area.
+            P.S Do not forget your wallet because you would like to leave some tips.</item>
+        <item>Designed in an ancient Egyptian theme, the hotel is shaped like a pyramid, with a sphinx proudly gazing out over the street.
+            The Luxor, like all the major resorts, offers a wide variety of restaurants and shopping opportunities.
+            One of the standout features of this hotel is the beam of light that projects from the highest point of the pyramid and shoots up into the night sky.
+            It can be seen from throughout Las Vegas. </item>
+        <item>From live music on the Brooklyn Bridge to rowdy evenings around dueling pianos, you’re sure to find something for the whole family!
+            And with 84,000 square of feet of casino space,
+            there are more than 67 table games and hundreds of slot machines to entertain the novice to the pro.
+            Why not be a part of it all at New York-New York?</item>
+
+    </string-array>
+
+    <string-array name="restaurants">
+        <item>Black tap craft Burgers and Beer</item>
+        <item>LAVO Itallian Restaurant</item>
+        <item>Americana Restaurant</item>
+        <item>The Boiling Crab</item>
+        <item>Water Grill</item>
+        <item>Chart House</item>
+        <item>Honey Salt</item>
+        <item>Abriya Raku</item>
+        <item>SW Steakhouse</item>
+    </string-array>
+
+    <string-array name="restaurantAddress">
+        <item>3355 S Las Vegas Blvd</item>
+        <item>3325 S Las Vegas Blvd</item>
+        <item>2620 Regatta Dr Suite 118</item>
+        <item>4025 S Decatur Blvd</item>
+        <item>3500 South Las Vegas Blvd Space #G01</item>
+        <item>129 East Fremont St</item>
+        <item>1031 S Rampart Blvd</item>
+        <item>5030 Spring Mountain Rd</item>
+        <item>3131 S Las Vegas Blvd</item>
+    </string-array>
+
+    <string-array name="cuisine">
+    <item>American 🇺🇸, Steakhouse, Vegetarian </item>
+        <item>Itallian 🇮🇹</item>
+        <item>American 🇺🇸, Steakhouse, Vegetarian</item>
+        <item>American 🇺🇸, Seafood</item>
+        <item>Asian 🥢, Seafood</item>
+        <item>Steakhouse, Seafood </item>
+        <item>American 🇺🇸</item>
+        <item>Chinese 🇨🇳, Japanese 🇯🇵</item>
+        <item>American 🇺🇸, Steakhouse, Seafood</item>
+    </string-array>
+
+    <string-array name="priceRange">
+        <item>$ 20 - $ 45</item>
+        <item>$ 31 - $ 60</item>
+        <item>$ 31 - $ 60 </item>
+        <item>$ 15 - $ 35</item>
+        <item>$ 31 - $ 50</item>
+        <item>$ 35 - $ 60</item>
+        <item>$ 20 - $ 40</item>
+        <item>$ 18 - $ 45</item>
+        <item>$ 50 - $ 80</item>
+    </string-array>
+
+    <string-array name="restaurantNumber">
+        <item>+1 702-414-1000</item>
+        <item>+1 702-791-1800</item>
+        <item>+1 702-331-5565</item>
+        <item>+1 702-386-0808</item>
+        <item>+1 702-832-4777</item>
+        <item>+1 702-386-8364</item>
+        <item>+1 702-445-6100</item>
+        <item>+1 702-367-3511</item>
+        <item>+1 702-770-3325</item>
+    </string-array>
+
+    <string-array name="restaurantWorkingHours">
+        <item>12pm - 10pm</item>
+        <item>6:30pm - 10:30pm</item>
+        <item>12pm - 11:30pm</item>
+        <item>12pm - 10pm</item>
+        <item>11:30am - 10pm</item>
+        <item>11am - 8pm</item>
+        <item>11:30am - 9pm</item>
+        <item>6pm - 3am</item>
+        <item>5:30pm - 10pm</item>
+    </string-array>
+
+    <string-array name="museum">
+        <item>Titanic: The Artifact Exhibition</item>
+        <item>The ARIA Fine Art</item>
+        <item>Madame Tussauds</item>
+        <item>Real Bodies at Bally’s</item>
+        <item>Marvel S.T.A.T.I.O.N</item>
+        <item>Nevada State Museum</item>
+        <item>The Neon Museum</item>
+        <item>The House of selfies</item>
+    </string-array>
+
+    <string-array name="museumDescription">
+        <item>Unprecedented opportunity to travel back in time.
+            Experience the wonder and tragedy of the world’s most famous ocean-liner, Titanic.
+            Over 250 authentic artifacts recovered from the wreck site of Titanic, as well as extensive recreations of some of the most famous rooms from the Ship,
+            make this an educational and entertaining experience perfect for all ages.</item>
+        <item>The ARIA Fine Art Collection encompasses a multitude of styles and media—ranging from sculptures and
+            paintings to large-scale installations—engaging visitors on a visual and intellectual level.</item>
+        <item>Madame Tussauds displays more than 100 intricately designed replicas of well-known celebrities from the worlds of film, television and music.</item>
+        <item>REAL BODIES at Bally’s uses real human specimens to explore the complex inner workings of the human form in a refreshing and thought-provoking style.</item>
+        <item>Avengers S.T.A.T.I.O.N. Las Vegas is an immersive and educational experience that will bring you into the world of The Avengers.
+            Welcoming all ages, visitors are granted access to the official S.T.A.T.I.O.N. headquarters and
+            taken deep into the Marvel Cinematic Universe with access to an array of intelligence files,
+            classified studies and experiments that explore the history and scientific origins of The Avengers.</item>
+        <item>The Nevada State Museum engages diverse audiences in understanding and celebrating Nevada’s natural and cultural heritage..
+             The museum presents heritage through unique and authentic educational experiences, enhanced by an environment of comfort, interaction, and inspiration.</item>
+        <item>What’s one of the first things that pops into your head when you’re imagining Nevada? NEON.
+            The Neon Museum is focuses solely on colleting, preserving,
+            studying and exhibiting iconic Las Vegas signs for educational, historic, arts and cultural enrichment.</item>
+        <item>It is the only form of photography many people care about, so of course there is a museum dedicated to it.
+            The interactive attraction looks at the history of the self-photograph and, naturally, offers several new selfie ops, including a “Game of Thrones”-style throne assembled out of selfie sticks.</item>
+    </string-array>
+
+    <string-array name="museumAddress">
+        <item>3900 S Las Vegas Blvd</item>
+        <item>3730 S Las Vegas Blvd</item>
+        <item>3377 S Las Vegas Blvd Ste. 2001</item>
+        <item>3645 S Las Vegas Blvd</item>
+        <item>3300 S Las Vegas Blvd</item>
+        <item>309 S Valley View Blvd</item>
+        <item>770 Las Vegas Blvd N</item>
+        <item>450 Fremont St Ste 251</item>
+    </string-array>
+
+    <string-array name="museumWorkingHours">
+        <item>10am – 9pm</item>
+        <item>12pm – 12am</item>
+        <item>11am – 5pm</item>
+        <item>10am – 9pm</item>
+        <item>11am - 5pm</item>
+        <item>9am – 5pm</item>
+        <item>10am - 10pm</item>
+        <item>4pm - 10pm</item>
+    </string-array>
+
+    <string-array name="fun">
+        <item>Big shot</item>
+        <item>X-Scream</item>
+        <item>Gondola Rides</item>
+        <item>SlotZilla Zipline</item>
+        <item>Insanity</item>
+        <item>Bungee Jumping</item>
+        <item>High Roller Ferris</item>
+        <item>Helicopter Rides</item>
+        <item>The Big Apple Coaster</item>
+        <item>Circus circus</item>
+    </string-array>
+
+    <string-array name="funAddress">
+        <item>2000 S Las Vegas Blvd</item>
+        <item>2000 S Las Vegas Blvd</item>
+        <item>3355 S Las Vegas Blvd</item>
+        <item>425 Fremont St #160</item>
+        <item>2000 S Las Vegas Blvd</item>
+        <item>2000 S Las Vegas Blvd</item>
+        <item>3545 S Las Vegas Blvd</item>
+        <item>4511 W Cheyenne Ave #101</item>
+        <item>3797 S Las Vegas Blvd New York-New York</item>
+        <item>2880 S Las Vegas Blvd</item>
+        </string-array>
+
+    <string-array name="funWorkingHours">
+        <item>12pm – 10pm</item>
+        <item>12pm – 10pm</item>
+        <item>10am – 11pm</item>
+        <item>12pm – 1am</item>
+        <item>12pm – 10pm</item>
+        <item>12pm – 1am</item>
+        <item>2pm – 12am</item>
+        <item>8am – 1pm</item>
+        <item>11am - 11pm</item>
+        <item>24/7</item>
+    </string-array>
+
+
+    <string-array name="funPrice">
+        <item>$ 12</item>
+        <item>$ 14</item>
+        <item>$ 29</item>
+        <item>$ 29</item>
+        <item>$ 14</item>
+        <item>$ 123.95</item>
+        <item>$ 24.95</item>
+        <item>$ 134</item>
+        <item>$ 14</item>
+        <item>$ 17.95</item>
+    </string-array>
+
+
+</resources>
